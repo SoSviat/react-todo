@@ -20,6 +20,6 @@ const SearchTaskForm = (props) => {
             />
         </form>
     )
-}
+} 
 
 export default SearchTaskForm
